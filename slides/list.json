@@ -1,0 +1,125 @@
+[
+  {
+    "filename": "index.md",
+    "attr": {
+      "data-background": "resources/background.png",
+      "data-background-size": "1024px",
+      "class": "center"
+    }
+  },
+  [
+    {
+      "filename": "introduction.md",
+      "attr": {
+        "data-background": "resources/background.png",
+        "data-background-size": "1024px",
+        "class": "center"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "about/about1.md",
+      "attr": {
+        "data-transition": "none"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "motivate/motivate1.md",
+      "attr": {
+        "data-transition": "none"
+      }
+    },
+    {
+      "filename": "motivate/motivate2.md",
+      "attr": {
+        "data-transition": "none"
+      }
+    },
+    {
+      "filename": "motivate/motivate3.md",
+      "attr": {
+        "data-transition": "none"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "description/description1.md",
+      "attr": {
+        "data-transition": "none"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "oportunity/oportunity1.md",
+      "attr": {
+        "data-transition": "none"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "solution/solution1.md",
+      "attr": {
+        "data-transition": "none"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "maturity/maturity2.md",
+      "attr": {
+        "class": "center"
+      }
+    },
+    {
+      "filename": "maturity/maturity3.md",
+      "attr": {
+        "class": "center"
+      }
+    },
+    {
+      "filename": "maturity/maturity4.md",
+      "attr": {
+        "class": "center"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "deadlines/deadlines1.md",
+      "attr": {
+        "data-transition": "none"
+      }
+    },
+    {
+      "filename": "deadlines/deadlines2.md",
+      "attr": {
+        "data-transition": "none"
+      }
+    }
+  ],
+  {
+    "filename": "greetings.md",
+    "attr": {
+      "data-background": "resources/questions.png",
+      "class": "center"
+    }
+  },
+  {
+    "filename": "license.md",
+    "attr": {
+      "class": "center"
+    }
+  },
+  {
+    "filename": "print-pdf.md",
+    "attr": {
+      "class": "center"
+    }
+  }
+]

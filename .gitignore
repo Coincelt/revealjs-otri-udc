@@ -4,3 +4,11 @@ dist
 *.log
 .sass-cache
 index.html
+.idea/
+.bowerrc
+.editorconfig
+.gitignore
+.jshintrc
+.yo-rc.json
+resources/*.xcf
+resources/*.svg

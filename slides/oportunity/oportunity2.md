@@ -1,8 +1,7 @@
-### Oportunidad B2B
+### Oportunidades con Bitcoin
+##### Transacciones totales en Bitcoin
 ----------------
-- Aumentar el margen de ganancias
-- Conocer a sus clientes <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
-- Estudio de microeconomía con datos reales <!-- .element: class="fragment fade-in" data-fragment-index="3" -->
-- Recibir alertas y avisos de pagos instantáneos<!-- .element: class="fragment fade-in" data-fragment-index="4" -->
-- Poder controlar las cuentas y los gastos <!-- .element: class="fragment fade-in" data-fragment-index="5" -->
-- Early adopters <!-- .element: class="fragment fade-in" data-fragment-index="6" -->
+![Transacciones de Bitcoin](resources/transactions.png)<!-- .element: style="border:0px; box-shadow: 0 0 0 rgba(0, 0, 0, 0); vertical-align: middle;" -->
+
+note:
+

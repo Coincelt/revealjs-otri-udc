@@ -1,4 +1,4 @@
-### Descripción del proyecto
+### Descripción
 ##### Fintech
 ----------------
 - *Wallet as a Service*

@@ -21,25 +21,14 @@
     {
       "filename": "about/about1.md",
       "attr": {
-        "data-transition": "none"
+        "data-transition": "none",
+        "class": "multicolumn"
       }
     }
   ],
   [
     {
       "filename": "motivate/motivate1.md",
-      "attr": {
-        "data-transition": "none"
-      }
-    },
-    {
-      "filename": "motivate/motivate2.md",
-      "attr": {
-        "data-transition": "none"
-      }
-    },
-    {
-      "filename": "motivate/motivate3.md",
       "attr": {
         "data-transition": "none"
       }
@@ -51,11 +40,29 @@
       "attr": {
         "data-transition": "none"
       }
+    },
+    {
+      "filename": "description/description2.md",
+      "attr": {
+        "data-transition": "none"
+      }
+    },
+    {
+      "filename": "description/description2b.md",
+      "attr": {
+        "data-transition": "none"
+      }
     }
   ],
   [
     {
       "filename": "oportunity/oportunity1.md",
+      "attr": {
+        "data-transition": "none"
+      }
+    },
+    {
+      "filename": "oportunity/oportunity2.md",
       "attr": {
         "data-transition": "none"
       }
@@ -92,12 +99,6 @@
   [
     {
       "filename": "deadlines/deadlines1.md",
-      "attr": {
-        "data-transition": "none"
-      }
-    },
-    {
-      "filename": "deadlines/deadlines2.md",
       "attr": {
         "data-transition": "none"
       }

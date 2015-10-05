@@ -28,8 +28,6 @@
     {
       "filename": "motivate/introduction.md",
       "attr": {
-        "data-background": "resources/background.png",
-        "data-background-size": "1024px",
         "class": "center"
       }
     },
@@ -44,8 +42,6 @@
     {
       "filename": "description/introduction.md",
       "attr": {
-        "data-background": "resources/background.png",
-        "data-background-size": "1024px",
         "class": "center"
       }
     },
@@ -66,8 +62,6 @@
     {
       "filename": "oportunity/introduction.md",
       "attr": {
-        "data-background": "resources/background.png",
-        "data-background-size": "1024px",
         "class": "center"
       }
     },
@@ -88,8 +82,6 @@
     {
       "filename": "solution/introduction.md",
       "attr": {
-        "data-background": "resources/background.png",
-        "data-background-size": "1024px",
         "class": "center"
       }
     },
@@ -104,21 +96,20 @@
     {
       "filename": "maturity/introduction.md",
       "attr": {
-        "data-background": "resources/background.png",
-        "data-background-size": "1024px",
         "class": "center"
       }
     },
     {
-      "filename": "maturity/maturity2.md",
+      "filename": "maturity/maturity1.md",
       "attr": {
-        "class": "center"
+        "data-transition": "none"
       }
     },
     {
-      "filename": "maturity/maturity3.md",
+      "filename": "maturity/maturitydemo.md",
       "attr": {
-        "class": "center"
+        "class": "center",
+        "data-background-video": "resources/video-demo-coincelt-wallet.ogv"
       }
     },
     {
@@ -132,8 +123,6 @@
     {
       "filename": "deadlines/introduction.md",
       "attr": {
-        "data-background": "resources/background.png",
-        "data-background-size": "1024px",
         "class": "center"
       }
     },

@@ -4,7 +4,7 @@
     - Aplicaciones MVC y servicios web
     - Backend y API
     [about.me/davidalbela](https://about.me/davidalbela) <!-- .element: style="font-size:20px;color:#2A5DB0;" -->
-- ![AngularJs](resources/logo_android.png )<!-- .element: style="border:0px; box-shadow: 0 0 0 rgba(0, 0, 0, 0); vertical-align: middle;" --> Jose Basalo González
+- ![Android](resources/logo_android.png )<!-- .element: style="border:0px; box-shadow: 0 0 0 rgba(0, 0, 0, 0); vertical-align: middle;" --> Jose Basalo González
     - Servicios integrados plataformas móviles
     - Frontend y Mobile Apps
     [josebasalo.com](http://josebasalo.com) <!-- .element: style="font-size:20px;color:#2A5DB0;" -->

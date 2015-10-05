@@ -1,0 +1,1 @@
+note: La dirección es fake y no cumple la expresión regular, en el prototipo usamos las red regtest

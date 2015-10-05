@@ -1,4 +1,4 @@
-### Oportunidades con Bitcoin
+### ![Bitcoin](resources/logo_bitcoin.png)<!-- .element: style="border:0px; box-shadow: 0 0 0 rgba(0, 0, 0, 0); vertical-align: middle;" -->
 ----------------
 - Transmisión de valor digital
   ###### Más de 1000$ en 2013<!-- .element: class="fragment fade-in" data-fragment-index="1" -->

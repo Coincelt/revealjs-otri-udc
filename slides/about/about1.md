@@ -1,9 +1,10 @@
-### Acerca de nosotros
-###### Mestrado Universitario en Enxeñaría Informática
-------------------------------------------------------  
-- David Albela Pérez<!-- .element: class="fragment fade-in" data-fragment-index="1" -->
-###### Creación de aplicaciones MVC y servicios web <!-- .element: class="fragment fade-in" data-fragment-index="2" -->   
-###### Backend y API<!-- .element: class="fragment fade-in" data-fragment-index="3" -->
-- Jose Basalo González<!-- .element: class="fragment fade-in" data-fragment-index="4" -->
-###### Servicios integrados en plataformas móviles<!-- .element: class="fragment fade-in" data-fragment-index="5" -->
-###### Fronted y Android<!-- .element: class="fragment fade-in" data-fragment-index="6" -->
+### ![FIC](resources/logo_fic.png)<!-- .element: style="border:0px; box-shadow: 0 0 0 rgba(0, 0, 0, 0); vertical-align: middle;horizontal-align:left;" --> ![MUEI](resources/muei.png)<!-- .element: style="border:0px; box-shadow: 0 0 0 rgba(0, 0, 0, 0); vertical-align: middle; horizontal-align:right;" -->
+------------------------------------------------------
+- ![Spring Boot](resources/logo-spring-boot.png )<!-- .element: style="border:0px; box-shadow: 0 0 0 rgba(0, 0, 0, 0); vertical-align: middle;" --> David Albela Pérez
+    - Aplicaciones MVC y servicios web
+    - Backend y API
+    [about.me/davidalbela](https://about.me/davidalbela) <!-- .element: style="font-size:20px;color:#2A5DB0;" -->
+- ![AngularJs](resources/logo_android.png )<!-- .element: style="border:0px; box-shadow: 0 0 0 rgba(0, 0, 0, 0); vertical-align: middle;" --> Jose Basalo González
+    - Servicios integrados plataformas móviles
+    - Frontend y Mobile Apps
+    [josebasalo.com](http://josebasalo.com) <!-- .element: style="font-size:20px;color:#2A5DB0;" -->
